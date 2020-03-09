@@ -2,11 +2,12 @@
 
 git status
 
-git add / git add -A
+git add / git add -A  [добавление файлов]
 
-git commit -m "коментарий"
+git commit -m "коментарий"   (кнопка esc и :wq [если забыл напиать коментарий])
 
-git push
+git push [загрузка в репозиторий]
 
-git pull
+git pull [обновление, скачаивание]
+
 
