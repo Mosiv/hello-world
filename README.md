@@ -1,3 +1,7 @@
 # hello-world
-python- 3
-новый файл нового поекта
+
+git status
+git add / git add -A
+git commit -m "коментарий"
+git push
+git pull
